@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="myname">Siddhant Dua</string>
+    <string name="starbutton">YellowStar</string>
+    <string name ="bio"> \n I am an engineering undergrad, \n pursuing Electronics and Communication Engineering at KLE Technolgical University.
+        \n\nI am constantly working to enhance my problem solving skills and hold a great inclination towards Computer Science.
+        \nI am a keen observer and I love to work on real world problems with an aim to reach the intersection
+        \nof technology and social innovation.
+        \n\nI believe that to identify these problems we must walk a mile in the shoes of those who are actually facing these problems out there. Being an engineer at heart and for the love of technology,
+        \nI look forward to create an impact on the world by learning relevant concepts and creating unique projects by implementing my technichal skills to eventually fill the gaps in society.
+        \n\nI am also a public speaker and seize every oppurtunity I get to interact with people in order to exchange ideas. \n\n</string>
+</resources>
